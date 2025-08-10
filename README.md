@@ -1,7 +1,7 @@
 # Website Setup Guide
 
 This README explains how to setup a simple HTML and CSS website using an Ubuntu server running NGINX.
-I used these steps to create [freesidejockey.com](freesidejockey.com).
+I used these steps to create [freesidejockey.com](https://freesidejockey.com/).
 
 ## Table of Contents
 
